@@ -57,7 +57,7 @@
     color: #5a3e2b; 
     text-align: center; 
     padding: 20px;
-    background-image: url('img/back.jpg'); 
+    background-image: url('../img/back.jpg'); 
     background-blend-mode: overlay;
     background-size: cover;
     background-position: center;
@@ -333,3 +333,4 @@
     color: #f5f5f5;  
 
   }
+
